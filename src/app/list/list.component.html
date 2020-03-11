@@ -1,0 +1,17 @@
+<div class=container>
+  <div *ngFor="let d of vscoviddata" class=item>
+    <h2>{{d['サービス名称']}}</h2>
+    <div class=description>{{d['詳細']}}</div>
+    <div class=from>提供: {{d['企業等']}}</div>
+    <div class=fee>費用等: {{d['無料/有料']}}</div>
+    <div class=span>提供期間: {{d['開始日']}}〜{{d['終了日']}} {{d['期間備考']}}</div>
+    <div class=id>情報源: {{d['情報源']}} (発表日付 {{d['発表日付']}})</div>
+    <div class=tags>
+    <div class=type>{{d['分野']}}</div>
+    <div class=service>{{d['サービス分類']}}</div>
+    <div class=keyword>{{d['キーワード']}}</div>
+    <div class=target>{{d['対象者']}}</div>
+    </div>
+    <div class=url><a href="{{d['URL']}}">アクセスしてみる</a></div>
+  </div>
+</div>
