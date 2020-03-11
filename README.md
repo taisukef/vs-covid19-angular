@@ -2,6 +2,8 @@
 
 https://taisukef.github.io/vs-covid19-angular/dist/vscovid19-angular/  
 
+<img src="https://taisukef.github.io/vs-covid19-angular/dist/vscovid19-angular/vscovid-angular.png" style="width:100%">  
+
 オリジナルバージョン  
 https://github.com/codeforjapan/vs-covid19  
 
