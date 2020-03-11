@@ -1,4 +1,10 @@
-# Vscovid19Angular
+# VS COVID-19 Angular ver
+
+https://taisukef.github.io/vs-covid19-angular/dist/vscovid19-angular/  
+
+オリジナルバージョン  
+https://github.com/codeforjapan/vs-covid19  
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
