@@ -9,7 +9,7 @@
 
   /***/
   function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsNode_modulesSassLoaderDistCjsJsSrcStylesScss(module, exports) {
-    module.exports = [[module.i, "body {\n  font-family: sans-serif;\n  margin: 0;\n  background-color: #F6C744;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9mdWt1bm8vZGF0YS9qcy92cy1jb3ZpZDE5LWFuZ3VsYXIvc3JjL3N0eWxlcy5zY3NzIiwic3JjL3N0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0MsdUJBQUE7RUFDQSxTQUFBO0VBQ0EseUJBQUE7QUNDRCIsImZpbGUiOiJzcmMvc3R5bGVzLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcblx0Zm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7XG5cdG1hcmdpbjogMDtcblx0YmFja2dyb3VuZC1jb2xvcjogI0Y2Qzc0NDtcbn1cbiIsImJvZHkge1xuICBmb250LWZhbWlseTogc2Fucy1zZXJpZjtcbiAgbWFyZ2luOiAwO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjZDNzQ0O1xufSJdfQ== */", '', '']];
+    module.exports = [[module.i, "body {\n  font-family: sans-serif;\n  margin: 0;\n  background-color: #CB2B39;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9mdWt1bm8vZGF0YS9qcy92cy1jb3ZpZDE5LWFuZ3VsYXIvc3JjL3N0eWxlcy5zY3NzIiwic3JjL3N0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0MsdUJBQUE7RUFDQSxTQUFBO0VBQ0EseUJBQUE7QUNDRCIsImZpbGUiOiJzcmMvc3R5bGVzLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcblx0Zm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7XG5cdG1hcmdpbjogMDtcblx0YmFja2dyb3VuZC1jb2xvcjogI0NCMkIzOTtcbn1cbiIsImJvZHkge1xuICBmb250LWZhbWlseTogc2Fucy1zZXJpZjtcbiAgbWFyZ2luOiAwO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjQ0IyQjM5O1xufSJdfQ== */", '', '']];
     /***/
   },
 
